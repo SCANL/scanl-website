@@ -45,9 +45,9 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:test@example.org'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/emhill
 - icon: globe
   icon_pack: fas
   link: http://cs.drew.edu/~emhill/
