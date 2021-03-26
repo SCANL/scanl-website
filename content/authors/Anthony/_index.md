@@ -15,27 +15,27 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Rochester Institute of Techonology
-  url: ""
+  url: "https://www.rit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Anthony has to fill this in
+bio: My research interests include program comprehension and software refactoring.
 
 interests:
-- Software Maintenance
 - Program Comprehension
-- Natural Language Processing
+- Software Refactoring
+- Software Maintenance & Evolution
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computing and Information Sciences
+    institution: Rochester Institute of Technology, New York, USA
+    year:
+  - course: M.Sc. in Software Engineering
+    institution: Rochester Institute of Technology, New York, USA
+    year:
+  - course: Bachelor of Computer Applications
+    institution: Bangalore University, Bangalore, India
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,15 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:test@example.org'
+- icon: globe
+  icon_pack: fas
+  link: https://peruma.me
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShehanPeruma
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=xT1X6coAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/shehan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,4 @@ user_groups:
 - Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Anthony Peruma is a Computing and Information Sciences Ph.D. student at [Rochester Institute of Technology (RIT)](https://www.rit.edu/computing/phd-computing-and-information-sciences). Anthony studies identifier names in the source code by investigating how and why identifier names change (or evolve) in the source code. The overall goal of Anthony's research is to improve developer productivity by constructing a linguistic model to assist developers, in realtime, to identify poor quality identifier names and recommend appropriate replacements.
