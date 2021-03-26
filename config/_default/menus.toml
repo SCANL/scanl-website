@@ -44,11 +44,26 @@
   weight = 50
 
 [[main]]
+  name = "Artifacts"
+  url = "#"
+  weight = 60
+[[main]]
+  parent = "Artifacts"
+  name = "Datasets"
+  url = "artifacts/datasets"
+  weight = 10
+[[main]]
+  parent = "Artifacts"
+  name = "Tools"
+  url = "artifacts/tools"
+  weight = 20
+
+[[main]]
   name = "Collaboration"
   url = "collaboration/"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 70
+  weight = 80
