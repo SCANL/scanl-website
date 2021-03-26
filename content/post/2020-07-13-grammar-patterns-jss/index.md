@@ -2,6 +2,7 @@
 title: "Publication accepted at the Journal of Systems and Software!"
 date: 2020-07-13
 profile: false
+lastmod: 2021-03-20T23:45:00-04:00
 ---
 
 **On the Generation, Structure, and Semantics of Grammar Patterns in Source Code Identifiers** was accepted for publication in the Journal of Systems and Software (JSS)!

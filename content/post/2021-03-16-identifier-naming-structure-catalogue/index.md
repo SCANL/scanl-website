@@ -2,6 +2,7 @@
 title: Identifier Naming Structure Catalogue
 date: 2021-03-16
 profile: false
+lastmod: 2021-03-23T23:45:00-04:00
 ---
 
 A catalogue of common source code identifier naming structures derived from research.

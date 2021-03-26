@@ -2,6 +2,7 @@
 title: Publication accepted at MSR 2021!
 date: 2021-03-10
 profile: false
+lastmod: 2021-03-20T23:45:00-04:00
 ---
 
 **On the Distribution of "Simple Stupid Bugs" in Unit Test Files: An Exploratory Study** was accepted for publication at The 18th International Conference on Mining Software Repositories (MSR 2021).
