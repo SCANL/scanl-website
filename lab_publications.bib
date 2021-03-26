@@ -1,0 +1,237 @@
+@article{2020:JSS:GENERATION,
+title = {On the generation, structure, and semantics of grammar patterns in source code identifiers},
+journal = {Journal of Systems and Software},
+volume = {170},
+pages = {110740},
+year = {2020},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2020.110740},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121220301680},
+author = {Christian D. Newman and Reem S. AlSuhaibani and Michael J. Decker and Anthony Peruma and Dishant Kaushik and Mohamed Wiem Mkaouer and Emily Hill},
+keywords = {Program comprehension, Identifier naming, Software maintenance, Source code analysis, Part-of-speech tagging, Grammar Pattern},
+abstract = {Identifiers make up a majority of the text in code. They are one of the most basic mediums through which developers describe the code they create and understand the code that others create. Therefore, understanding the patterns latent in identifier naming practices and how accurately we are able to automatically model these patterns is vital if researchers are to support developers and automated analysis approaches in comprehending and creating identifiers correctly and optimally. This paper investigates identifiers by studying sequences of part-of-speech annotations, referred to as grammar patterns. This work advances our understanding of these patterns and our ability to model them by (1) establishing common naming patterns in different types of identifiers, such as class and attribute names; (2) analyzing how different patterns influence comprehension; and (3) studying the accuracy of state-of-the-art techniques for part-of-speech annotations, which are vital in automatically modeling identifier naming patterns, in order to establish their limits and paths toward improvement. To do this, we manually annotate a dataset of 1,335 identifiers from 20 open-source systems and use this dataset to study naming patterns, semantics, and tagger accuracy.}
+}
+
+@INPROCEEDINGS{2019:ICSME:RELATIONSHIP,  
+author={C. D. {Newman} and A. {Preuma} and R. {AlSuhaibani}},  
+booktitle={2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)},   
+title={Modeling the Relationship Between Identifier Name and Behavior},   
+year={2019},  
+volume={},  
+number={},  
+pages={376-378},  
+doi={10.1109/ICSME.2019.00062},
+abstract = {This paper presents the features of a model that relates the natural language found in identifiers with program semantics. The model takes advantage of part of speech information and static-analysis-based program models to understand how different types of statically-derived semantics correlates with the natural language meaning of identifiers.},
+keywords = {Identifier Names, Static Analysis, Program Comprehension, Refactoring, Rename Refactoring}
+}
+
+@INPROCEEDINGS{2019:ICSME:DATASET,  
+author={C. {Newman} and M. J. {Decker} and R. S. {AlSuhaibani} and A. {Peruma} and D. {Kaushik} and E. {Hill}},  
+booktitle={2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)},   
+title={An Open Dataset of Abbreviations and Expansions},   
+year={2019},  
+volume={},  
+number={},  
+pages={280-280},  
+doi={10.1109/ICSME.2019.00041},
+abstract = {We present a data set of abbreviations and expansions, derived from a set of five open source systems, for use by the research and development communities.},
+keywords = {Abbreviation Expansion, Program Comprehension}
+}
+
+@INPROCEEDINGS{2019:ICSME:ABBREVIATIONS,  
+author={C. D. {Newman} and M. J. {Decker} and R. S. {Alsuhaibani} and A. {Peruma} and D. {Kaushik} and E. {Hill}},  
+booktitle={2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)},   
+title={An Empirical Study of Abbreviations and Expansions in Software Artifacts},   
+year={2019},  
+volume={},  
+number={},  
+pages={269-279},  
+doi={10.1109/ICSME.2019.00040},
+abstract = {Expanding abbreviations is an important text normalization technique used for the purpose of either increasing developer comprehension or supporting the application of natural-language-based tools for source code identifiers. This paper closely studies abbreviations and where their expansions occur in different software artifacts. Without abbreviation expansion, developers will spend more time in comprehending the code they need to update, and tools analyzing software may obtain weak or non-generalizable results. There are numerous techniques for expanding abbreviations, most of which struggle to reach an average expansion accuracy of 59-62% on general source code identifiers. In this paper, we reveal some characteristics of abbreviations and their expansions through an empirical study of 861 abbreviation-expansion pairs extracted from 5 open-source systems in addition to analyzing previous literature. We use these characteristics to identify how current approaches may be complementary and how their results should be reported in the future to help maximize both our understanding of how they compare with other expansion techniques and their reproducibility.},
+keywords = {Abbreviation Expansion, Program Comprehension}
+}
+
+@article{2020:JSS:RENAME,
+title = {Contextualizing rename decisions using refactorings, commit messages, and data types},
+journal = {Journal of Systems and Software},
+volume = {169},
+pages = {110704},
+year = {2020},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2020.110704},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121220301503},
+author = {Anthony Peruma and Mohamed Wiem Mkaouer and Michael J. Decker and Christian D. Newman},
+keywords = {Program comprehension, Identifier names, Refactoring, Rename refactoring, Data types},
+abstract = {Identifier names are the atoms of program comprehension. Weak identifier names decrease developer productivity and degrade the performance of automated approaches that leverage identifier names in source code analysis; threatening many of the advantages which stand to be gained from advances in artificial intelligence and machine learning. Therefore, it is vital to support developers in naming and renaming identifiers. In this paper, we extend our prior work, which studies the primary method through which names evolve: rename refactorings. In our prior work, we contextualize rename changes by examining commit messages and other refactorings. In this extension, we further consider data type changes which co-occur with these renames, with a goal of understanding how data type changes influence the structure and semantics of renames. In the long term, the outcomes of this study will be used to support research into: (1) recommending when a rename should be applied, (2) recommending how to rename an identifier, and (3) developing a model that describes how developers mentally synergize names using domain and project knowledge. We provide insights into how our data can support rename recommendation and analysis in the future, and reflect on the significant challenges, highlighted by our study, for future research in recommending renames.}
+}
+
+@INPROCEEDINGS{2019:SCAM:RENAME,  
+author={A. {Peruma} and M. W. {Mkaouer} and M. J. {Decker} and C. D. {Newman}},  
+booktitle={2019 19th International Working Conference on Source Code Analysis and Manipulation (SCAM)},   
+title={Contextualizing Rename Decisions using Refactorings and Commit Messages},   
+year={2019},  
+volume={},  
+number={},  
+pages={74-85},  
+doi={10.1109/SCAM.2019.00017},
+keywords = {Program comprehension, Identifier names, Refactoring, Rename refactoring},
+abstract = {Identifier names are the atoms of comprehension; weak identifier names decrease productivity by increasing the chance that developers make mistakes and increasing the time taken to understand chunks of code. Therefore, it is vital to support developers in naming, and renaming, identifiers. In this paper, we study how terms in an identifier change during the application of rename refactorings and contextualize these changes using co-occurring refactorings and commit messages. The goal of this work is to understand how different development activities affect the type of changes applied to names during a rename. Results of this study can help researchers understand more about developers' naming habits and support developers in determining when to rename and what words to use.}
+}
+
+@inproceedings{2018:IWOR:RENAME,
+author = {Peruma, Anthony and Mkaouer, Mohamed Wiem and Decker, Michael J. and Newman, Christian D.},
+title = {An Empirical Investigation of How and Why Developers Rename Identifiers},
+year = {2018},
+isbn = {9781450359740},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3242163.3242169},
+doi = {10.1145/3242163.3242169},
+abstract = {Renaming is vital to software maintenance and evolution. Developers rename entities when their original names no longer fit their behavioral role within the program. This may happen if the entity's original name was of poor quality or if the system has evolved such that the original name needs to be updated to reflect some of this evolution. In the end, the reason for the rename ultimately falls under increasing understandability and comprehension. Because comprehension is so important, and identifiers are the primary way developers comprehend code, it is critical to understand empirically how and why identifier names evolve. Armed with an understanding of these two facets of identifier evolution, researchers will be able to train algorithms to recognize, recommend, or even automatically generate high-quality identifier names. We present an empirical study of how method, class and package identifier names evolve to better understand the motives of their evolution. The empirical validation involves a set of 524,113 rename refactorings, performed on 3,795 Java systems. In a nutshell, our findings demonstrate that most rename refactorings narrow the meaning of the identifiers for which they are applied. Further, we analyze commit messages to contextualize these renames.},
+booktitle = {Proceedings of the 2nd International Workshop on Refactoring},
+pages = {26–33},
+numpages = {8},
+keywords = {Program comprehension, Rename refactoring, natural language processing, Refactoring},
+location = {Montpellier, France},
+series = {IWoR 2018}
+}
+
+@inproceedings{2020:FSE:TSDETECT,
+author = {Peruma, Anthony and Almalki, Khalid and Newman, Christian D. and Mkaouer, Mohamed Wiem and Ouni, Ali and Palomba, Fabio},
+title = {TsDetect: An Open Source Test Smells Detection Tool},
+year = {2020},
+isbn = {9781450370431},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ezproxy.rit.edu/10.1145/3368089.3417921},
+doi = {10.1145/3368089.3417921},
+abstract = {The test code, just like production source code, is subject to bad design and programming practices, also known as smells. The presence of test smells in a software project may affect the quality, maintainability, and extendability of test suites making them less effective in finding potential faults and quality issues in the project's production code. In this paper, we introduce tsDetect, an automated test smell detection tool for Java software systems that uses a set of detection rules to locate existing test smells in test code. We evaluate the effectiveness of tsDetect on a benchmark of 65 unit test files containing instances of 19 test smell types. Results show that tsDetect achieves a high detection accuracy with an average precision score of 96% and an average recall score of 97%. tsDetect is publicly available, with a demo video, at: https://testsmells.github.io/},
+booktitle = {Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+pages = {1650–1654},
+numpages = {5},
+keywords = {Test Smells, Detection Tool, Software Quality},
+location = {Virtual Event, USA},
+series = {ESEC/FSE 2020}
+}
+
+@inproceedings{2019:CASCON:TESTSMELLS,
+author = {Peruma, Anthony and Almalki, Khalid and Newman, Christian D. and Mkaouer, Mohamed Wiem and Ouni, Ali and Palomba, Fabio},
+title = {On the Distribution of Test Smells in Open Source Android Applications: An Exploratory Study},
+year = {2019},
+publisher = {IBM Corp.},
+address = {USA},
+abstract = {The impact of bad programming practices, such as code smells, in production code has been the focus of numerous studies in software engineering. Like production code, unit tests are also affected by bad programming practices which can have a negative impact on the quality and maintenance of a software system. While several studies addressed code and test smells in desktop applications, there is little knowledge of test smells in the context of mobile applications. In this study, we extend the existing catalog of test smells by identifying and defining new smells and survey over 40 developers who confirm that our proposed smells are bad programming practices in test suites. Additionally, we perform an empirical study on the occurrences and distribution of the proposed smells on 656 open-source Android applications (apps). Our findings show a widespread occurrence of test smells in apps. We also show that apps tend to exhibit test smells early in their lifetime with different degrees of co-occurrences on different smell types. This empirical study demonstrates that test smells can be used as an indicator for necessary preventive software maintenance for test suites.},
+booktitle = {Proceedings of the 29th Annual International Conference on Computer Science and Software Engineering},
+pages = {193–202},
+numpages = {10},
+keywords = {software maintenance, unit test, software quality, test smells},
+location = {Toronto, Ontario, Canada},
+series = {CASCON '19}
+}
+
+@inproceedings{2020:ICSEW:ANDROID,
+author = {Peruma, Anthony and Newman, Christian D. and Mkaouer, Mohamed Wiem and Ouni, Ali and Palomba, Fabio},
+title = {An Exploratory Study on the Refactoring of Unit Test Files in Android Applications},
+year = {2020},
+isbn = {9781450379632},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3387940.3392189},
+doi = {10.1145/3387940.3392189},
+abstract = {An essential activity of software maintenance is the refactoring of source code. Refactoring operations enable developers to take necessary actions to correct bad programming practices (i.e., smells) in the source code of both production and test files. With unit testing being a vital and fundamental part of ensuring the quality of a system, developers must address smelly test code. In this paper, we empirically explore the impact and relationship between refactoring operations and test smells in 250 open-source Android applications (apps). Our experiments showed that the type of refactoring operations performed by developers on test files differ from those performed on non-test files. Further, results around test smells show a co-occurrence between certain smell types and refactorings, and how refactorings are utilized to eliminate smells. Findings from this study will not only further our knowledge of refactoring operations on test files, but will also help developers in understanding the possible ways on how to maintain their apps.},
+booktitle = {Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops},
+pages = {350–357},
+numpages = {8},
+keywords = {Android applications, Software maintenance and evolution, Unit testing, Test smells, Refactoring},
+location = {Seoul, Republic of Korea},
+series = {ICSEW'20}
+}
+
+@inproceedings{2019:MOBILESOFT:REFACTORING,
+author = {Peruma, Anthony},
+title = {A Preliminary Study of Android Refactorings},
+year = {2019},
+publisher = {IEEE Press},
+abstract = {Throughout the lifetime of a software system, developers continuously refactor the source code as a means of improving the quality of the code. Android apps, like traditional software systems, are not exempt from such refactoring activities. We conducted an empirical study to show the common refactoring operations in Android apps and discussed how they differ from traditional Java systems. Additionally, by contextualizing refactorings with commit messages, we identified the motivations for developers to perform these refactoring operations.},
+booktitle = {Proceedings of the 6th International Conference on Mobile Software Engineering and Systems},
+pages = {148–149},
+numpages = {2},
+keywords = {software maintenance, software refactoring},
+location = {Montreal, Quebec, Canada},
+series = {MOBILESoft '19}
+}
+
+@INPROCEEDINGS{2019:ICSME:MODEL,  
+author={A. {Peruma}},  
+booktitle={2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)},   
+title={Towards a Model to Appraise and Suggest Identifier Names},   
+year={2019},  
+volume={},  
+number={},  
+pages={639-643},  
+doi={10.1109/ICSME.2019.00103},
+keywords = {Program comprehension, Identifier names, Rename refactoring, Refactoring},
+abstract = {Unknowingly, identifiers in the source code of a software system play a vital role in determining the quality of the system. Ambiguous and confusing identifier names lead developers to not only misunderstand the behavior of the code but also increases comprehension time and thereby causes a loss in productivity. Even though correcting poor names through rename operations is a viable option for solving this problem, renaming itself is an act of rework and is not immune to defect injection. In this study, we aim to understand the motivations that drive developers to name and rename identifiers and the decisions they make in determining the name. Using our results, we propose the development of a linguistic model that determines identifier names based on the behavior of the identifier. As a prerequisite to constructing the model, we conduct multiple studies to determine the features that should feed into the model. In this paper, we discuss findings from our completed studies and justify the continuation of research on this topic through further studies.}
+}
+
+@inproceedings{2021:ICPC:METHODS,
+author = {Peruma, Anthony and Hu, Emily and Chen, Jiajun and Alomar, Eman Abdullah and Mkaouer, Mohamed Wiem and Newman, Christian D.},
+title = {Using Grammar Patterns to Interpret Test Method Name Evolution},
+year = {2021},
+isbn = {xxx},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {xxx},
+doi = {xxx},
+abstract = {It is good practice to name test methods such that they are comprehensible to developers; they must be written in such a way that their purpose and functionality are clear to those who will maintain them. Unfortunately, there is little automated support for writing or maintaining the names of test methods. This can lead to inconsistent and low-quality test names and increase the maintenance cost of supporting these methods. Due to this risk, it is essential to help developers in maintaining their test method names over time. In this paper, we use grammar patterns, and how they relate to test method behavior, to understand test naming practices. This data will be used to support an automated tool for maintaining test names.},
+keywords = {Program comprehension, Identifier names, Rename refactoring, Refactoring, Part-of-speech Tagging,Grammar Pattern},
+booktitle = {Proceedings of the 29th International Conference on Program Comprehension},
+pages = {xxx},
+numpages = {xxx},
+location = {xxx},
+series = {ICPC '21}
+}
+
+@inproceedings{2021:MSR:SSTuB,
+abstract = {A key aspect of ensuring the quality of a software system is the practice of unit testing. Through unit tests, developers verify the correctness of production source code, thereby verifying the system's intended behavior under test. However, unit test code is subject to issues, ranging from bugs in the code to poor test case design (i.e., test smells). In this study, we compare and contrast the occurrences of a type of single-statement-bug-fix known as \"simple stupid bugs\" (SStuBs) in test and non-test (i.e., production) files in popular open-source Java Maven projects. Our results show that SStuBs occur more frequently in non-test files than in test files, with most fix-related code associated with assertion statements in test files. Further, most test files exhibiting SStuBs also exhibit test smells. We envision our findings enabling tool vendors to better support developers in improving the maintenance of test suites.},
+acmid = {xxx},
+address = {Piscataway, NJ, USA},
+author = {Peruma, Anthony and Newman, Christian D.},
+booktitle = {Proceedings of the 18th International Conference on Mining Software Repositories},
+doi = {xxx},
+keywords = {Mining Software Repositories, Unit Tests, Bugs, Simple Stupid Bugs, Test Smells},
+location = {xxx},
+month = {May},
+numpages = {xxx},
+pages = {xxx},
+publisher = {IEEE Press},
+series = {MSR '21},
+title = {On the Distribution of "Simple Stupid Bugs" in Unit Test Files: An Exploratory Study},
+url = {xxx},
+year = {2021}
+}
+
+@inproceedings{2021:ICSE:DEVELOPER,
+author = {AlSuhaibani, Reem S. and Newman, Christian D. and Decker, Michael J. and Collard, Michael L. and Maletic, Jonathan I.},
+title = {A Comprehensive Study of Autonomous Vehicle Bugs},
+year = {2021},
+isbn = {XXX},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {XXX},
+doi = {XXX},
+abstract = {This paper describes the results of a large (+1100 responses) survey of professional software developers concerning standards for naming source code methods. The various standards for source code method names are derived from and supported in the software engineering literature. The goal of the survey is to determine if there is a general consensus among developers that the standards are accepted and used in practice. Additionally, the paper examines factors such as years of experience and programming language knowledge in the context of survey responses. The survey results show that participants very much agree about the importance of various standards and how they apply to names. Additionally, the survey shows that years of experience and the programming language the participants use has almost no effect on their responses.},
+booktitle = {Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering},
+pages = {XXX},
+numpages = {XXX},
+keywords = {method names, coding standards, styling, Program Comprehension},
+location = {XXX},
+series = {ICSE '21}
+}
+
+
+
+
+
+
+
