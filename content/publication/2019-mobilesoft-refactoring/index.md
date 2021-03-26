@@ -11,7 +11,7 @@ tags:
 - '"software maintenance"'
 - '"software refactoring"'
 categories: []
-date: '2019-01-01'
+date: '2019-05-01'
 lastmod: 2021-03-17T23:45:05-04:00
 featured: false
 draft: false
@@ -43,4 +43,5 @@ abstract: Throughout the lifetime of a software system, developers continuously 
 publication: '*Proceedings of the 6th International Conference on Mobile Software
   Engineering and Systems*'
 url_pdf: https://www.researchgate.net/publication/335227845_A_Preliminary_Study_of_Android_Refactorings
+doi: 10.1109/MOBILESoft.2019.00030
 ---

@@ -22,7 +22,7 @@ tags:
 - '"Part-of-speech tagging"'
 - '"Grammar Pattern"'
 categories: []
-date: '2020-01-01'
+date: '2020-12-01'
 lastmod: 2021-03-17T23:44:59-04:00
 featured: false
 draft: false
