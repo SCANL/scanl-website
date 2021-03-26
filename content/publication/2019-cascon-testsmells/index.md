@@ -6,12 +6,13 @@ title: 'On the Distribution of Test Smells in Open Source Android Applications: 
 subtitle: ''
 summary: ''
 authors:
-- Anthony Peruma
+- Anthony
 - Khalid Almalki
-- Christian Newman
+- Christian
 - Mohamed Mkaouer
 - Ali Ouni
 - Fabio Palomba
+profile: false
 tags:
 - '"software maintenance"'
 - '"unit test"'

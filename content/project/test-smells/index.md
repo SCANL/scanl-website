@@ -4,9 +4,8 @@ date: 2021-03-25
 summary: This project seeks to extend the existing test smell catalog by adding new types of test smells. Additionally, we make available an open-source tool to detect the different smell types in the source code.
 draft: false
 featured: true
+profile: false
 external_link: 
-authors:
-  - Anthony
 links:
   - url: https://testsmells.github.io/
     name: Project Website

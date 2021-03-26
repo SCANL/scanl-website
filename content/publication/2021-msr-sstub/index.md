@@ -6,8 +6,9 @@ title: 'On the Distribution of "Simple Stupid Bugs" in Unit Test Files: An Explo
 subtitle: ''
 summary: ''
 authors:
-- Anthony Peruma
-- Christian Newman
+  - Anthony
+  - Christian
+profile: false
 tags:
 - '"Mining Software Repositories"'
 - '"Unit Tests"'

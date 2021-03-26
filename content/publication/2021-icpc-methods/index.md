@@ -5,12 +5,13 @@ title: Using Grammar Patterns to Interpret Test Method Name Evolution
 subtitle: ''
 summary: ''
 authors:
-- Anthony Peruma
+- Anthony
 - Emily Hu
 - Jiajun Chen
 - Eman AlOmar
 - Mohamed Mkaouer
-- Christian Newman
+- Christian
+profile: false
 tags:
 - '"Program comprehension"'
 - '"Identifier names"'

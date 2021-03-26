@@ -5,10 +5,11 @@ title: An Empirical Investigation of How and Why Developers Rename Identifiers
 subtitle: ''
 summary: ''
 authors:
-- Anthony Peruma
+- Anthony
 - Mohamed Mkaouer
-- Michael Decker
-- Christian Newman
+- Michael
+- Christian
+profile: false
 tags:
 - '"Program comprehension"'
 - '"Rename refactoring"'

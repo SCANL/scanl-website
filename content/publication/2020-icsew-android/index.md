@@ -5,11 +5,12 @@ title: An Exploratory Study on the Refactoring of Unit Test Files in Android App
 subtitle: ''
 summary: ''
 authors:
-- Anthony Peruma
-- Christian Newman
+- Anthony
+- Christian
 - Mohamed Mkaouer
 - Ali Ouni
 - Fabio Palomba
+profile: false
 tags:
 - '"Android applications"'
 - '"Software maintenance and evolution"'

@@ -3,9 +3,8 @@ title: Identifier Renames
 date: 2021-03-25
 summary: "In this project, through a series of studies, we aim to model the relationship between the name of an identifier and the behavior of the source code entity it represents."
 draft: false
-authors:
-  - Anthony
 featured: true
+profile: false
 external_link: 
 links:
 image:

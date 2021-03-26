@@ -5,7 +5,8 @@ title: A Preliminary Study of Android Refactorings
 subtitle: ''
 summary: ''
 authors:
-- Anthony Peruma
+- Anthony
+profile: false
 tags:
 - '"software maintenance"'
 - '"software refactoring"'

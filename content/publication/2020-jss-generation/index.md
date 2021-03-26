@@ -6,13 +6,14 @@ title: On the generation, structure, and semantics of grammar patterns in source
 subtitle: ''
 summary: ''
 authors:
-- Christian Newman
-- Reem AlSuhaibani
-- Michael Decker
-- Anthony Peruma
+- Christian
+- Reem
+- Michael
+- Anthony
 - Dishant Kaushik
 - Mohamed Mkaouer
-- Emily Hill
+- Emily
+profile: false
 tags:
 - '"Program comprehension"'
 - '"Identifier naming"'

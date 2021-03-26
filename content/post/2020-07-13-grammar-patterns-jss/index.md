@@ -1,8 +1,7 @@
 ---
 title: "On the Generation, Structure, and Semantics of Grammar Patterns in Source Code Identifiers was accepted for publication at the Journal of Systems and Software!"
 date: 2020-07-13
-authors:
-  - Christian
+profile: false
 ---
 
 **On the Generation, Structure, and Semantics of Grammar Patterns in Source Code Identifiers** was accepted for publication in the Journal of Systems and Software (JSS)!

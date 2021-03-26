@@ -5,10 +5,11 @@ title: Contextualizing Rename Decisions using Refactorings and Commit Messages
 subtitle: ''
 summary: ''
 authors:
-- Anthony Peruma
+- Anthony
 - Mohamed Mkaouer
-- Michael Decker
-- Christian Newman
+- Michael
+- Christian
+profile: false
 tags:
 - '"Program comprehension"'
 - '"Identifier names"'
