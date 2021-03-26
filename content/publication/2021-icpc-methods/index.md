@@ -51,6 +51,6 @@ abstract: It is good practice to name test methods such that they are comprehens
   relate to test method behavior, to understand test naming practices. This data will
   be used to support an automated tool for maintaining test names.
 publication: '*Proceedings of the 29th International Conference on Program Comprehension*'
-url_pdf: xxx
+url_pdf: https://arxiv.org/pdf/2103.09190.pdf
 doi: xxx
 ---

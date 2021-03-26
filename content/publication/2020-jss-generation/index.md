@@ -59,6 +59,6 @@ abstract: Identifiers make up a majority of the text in code. They are one of th
   To do this, we manually annotate a dataset of 1,335 identifiers from 20 open-source
   systems and use this dataset to study naming patterns, semantics, and tagger accuracy.
 publication: '*Journal of Systems and Software*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0164121220301680
+url_pdf: https://arxiv.org/pdf/2007.08033.pdf
 doi: https://doi.org/10.1016/j.jss.2020.110740
 ---

@@ -51,6 +51,6 @@ abstract: A key aspect of ensuring the quality of a software system is the pract
   maintenance of test suites.
 publication: '*Proceedings of the 18th International Conference on Mining Software
   Repositories*'
-url_pdf: xxx
+url_pdf: https://arxiv.org/pdf/2103.09388.pdf
 doi: xxx
 ---
