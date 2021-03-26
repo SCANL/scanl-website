@@ -50,4 +50,5 @@ abstract: Identifier names are the atoms of comprehension; weak identifier names
 publication: '*2019 19th International Working Conference on Source Code Analysis
   and Manipulation (SCAM)*'
 doi: 10.1109/SCAM.2019.00017
+url_pdf: https://www.researchgate.net/publication/335146571_Contextualizing_Rename_Decisions_using_Refactorings_and_Commit_Messages
 ---

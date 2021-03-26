@@ -42,4 +42,5 @@ abstract: We present a data set of abbreviations and expansions, derived from a 
 publication: '*2019 IEEE International Conference on Software Maintenance and Evolution
   (ICSME)*'
 doi: 10.1109/ICSME.2019.00041
+url_pdf: https://www.researchgate.net/publication/336120013_An_Open_Dataset_of_Abbreviations_and_Expansions
 ---

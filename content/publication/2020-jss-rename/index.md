@@ -57,6 +57,6 @@ abstract: 'Identifier names are the atoms of program comprehension. Weak identif
   and reflect on the significant challenges, highlighted by our study, for future
   research in recommending renames.'
 publication: '*Journal of Systems and Software*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0164121220301503
+url_pdf: https://www.researchgate.net/publication/342508536_Contextualizing_rename_decisions_using_refactorings_commit_messages_and_data_types
 doi: https://doi.org/10.1016/j.jss.2020.110704
 ---
