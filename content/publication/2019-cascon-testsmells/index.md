@@ -57,4 +57,5 @@ abstract: The impact of bad programming practices, such as code smells, in produ
   for test suites.
 publication: '*Proceedings of the 29th Annual International Conference on Computer
   Science and Software Engineering*'
+url_pdf: https://testsmells.org/assets/publications/CASCON2019_TechnicalPaper.pdf
 ---

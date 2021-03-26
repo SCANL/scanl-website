@@ -54,6 +54,6 @@ abstract: Renaming is vital to software maintenance and evolution. Developers re
   the meaning of the identifiers for which they are applied. Further, we analyze commit
   messages to contextualize these renames.
 publication: '*Proceedings of the 2nd International Workshop on Refactoring*'
-url_pdf: https://doi.org/10.1145/3242163.3242169
+url_pdf: https://www.researchgate.net/publication/327122648_An_empirical_investigation_of_how_and_why_developers_rename_identifiers
 doi: 10.1145/3242163.3242169
 ---

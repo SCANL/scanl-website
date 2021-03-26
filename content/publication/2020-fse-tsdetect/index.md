@@ -51,6 +51,6 @@ abstract: "The test code, just like production source code, is subject to bad de
   \ is publicly available, with a demo video, at: https://testsmells.github.io/"
 publication: '*Proceedings of the 28th ACM Joint Meeting on European Software Engineering
   Conference and Symposium on the Foundations of Software Engineering*'
-url_pdf: https://doi-org.ezproxy.rit.edu/10.1145/3368089.3417921
+url_pdf: https://testsmells.org/assets/publications/FSE2020_TechnicalPaper.pdf
 doi: 10.1145/3368089.3417921
 ---

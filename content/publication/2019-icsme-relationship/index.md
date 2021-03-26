@@ -45,4 +45,5 @@ abstract: This paper presents the features of a model that relates the natural l
 publication: '*2019 IEEE International Conference on Software Maintenance and Evolution
   (ICSME)*'
 doi: 10.1109/ICSME.2019.00062
+url_pdf: https://www.researchgate.net/publication/335146569_Modeling_the_Relationship_Between_Identifier_Name_and_Behavior
 ---

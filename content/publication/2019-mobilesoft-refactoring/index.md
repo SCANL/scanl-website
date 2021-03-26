@@ -41,4 +41,5 @@ abstract: Throughout the lifetime of a software system, developers continuously 
   for developers to perform these refactoring operations.
 publication: '*Proceedings of the 6th International Conference on Mobile Software
   Engineering and Systems*'
+url_pdf: https://www.researchgate.net/publication/335227845_A_Preliminary_Study_of_Android_Refactorings
 ---

@@ -54,6 +54,6 @@ abstract: An essential activity of software maintenance is the refactoring of so
   in understanding the possible ways on how to maintain their apps.
 publication: '*Proceedings of the IEEE/ACM 42nd International Conference on Software
   Engineering Workshops*'
-url_pdf: https://doi.org/10.1145/3387940.3392189
+url_pdf: https://testsmells.org/assets/publications/IWoR2020_TechnicalPaper.pdf
 doi: 10.1145/3387940.3392189
 ---

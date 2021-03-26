@@ -54,4 +54,5 @@ abstract: Expanding abbreviations is an important text normalization technique u
 publication: '*2019 IEEE International Conference on Software Maintenance and Evolution
   (ICSME)*'
 doi: 10.1109/ICSME.2019.00040
+url_pdf: https://www.researchgate.net/publication/335146468_An_Empirical_Study_of_Abbreviations_and_Expansions_in_Software_Artifacts
 ---
