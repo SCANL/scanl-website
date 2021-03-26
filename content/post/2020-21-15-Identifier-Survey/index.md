@@ -1,6 +1,8 @@
 ---
 title: "On the Naming of Methods: A Survey of Professional Developers was accepted for publication at ICSE 2021!"
 date: 2020-12-15
+authors:
+  - Reem
 ---
 
 **On the Naming of Methods: A Survey of Professional Developers** was accepted for publication at ICSE 2021

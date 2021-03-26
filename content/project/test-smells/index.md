@@ -5,6 +5,8 @@ summary: This project seeks to extend the existing test smell catalog by adding 
 draft: false
 featured: true
 external_link: 
+authors:
+  - Anthony
 links:
   - url: https://testsmells.github.io/
     name: Project Website

@@ -4,6 +4,8 @@ date: 2021-03-25
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
 draft: false
 featured: true
+authors:
+  - Christian
 external_link: 
 links:
 image:
