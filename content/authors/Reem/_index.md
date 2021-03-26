@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Reem has to fill this in
+bio: Reem is a PhD student in computer science at Kent State University, Ohio, USA.
 
 interests:
 - Software Maintenance
