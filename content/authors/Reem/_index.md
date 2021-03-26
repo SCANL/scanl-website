@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (SDML - Jonathan Maletic's lab)
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Ph.D. in Computer Science
+    institution: Kent State University, Ohio, USA
+    year:
+  - course: MSc in Computer Science
+    institution: Kent State University, Ohio, USA
+    year: 2015
+  - course: BSc in Computer Science
+    institution: Prince Sultan University, Riyadh, Saudi Arabia
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,4 +69,4 @@ user_groups:
 - Researchers
 ---
 
-Reem is a PhD student in computer science as part of the SDML lab. She also helped co-found SCANL.
+Reem is a PhD student in computer science as part of the SDML (Jonathan Maletic's lab). She also helped co-found SCANL.
