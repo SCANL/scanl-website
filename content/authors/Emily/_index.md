@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Delaware
+    institution: University of Delaware, Delaware, USA
     year: 2010
   - course: M.S. in Computer Science
-    institution: University of Delaware
+    institution: University of Delaware, Delaware, USA
     year: 2005
   - course: BSc in Computer Science, minor in Mathematics
-    institution: The college of New Jersey
+    institution: The College of New Jersey, New Jersey, USA
     year: 2003
 
 # Social/Academic Networking

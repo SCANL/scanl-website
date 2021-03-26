@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Kent State University
+    institution: Kent State University, Ohio, USA
     year: 2017
   - course: Msc in Computer Science
-    institution: University of Akron
+    institution: University of Akron, Ohio, USA
     year: 2012
   - course: BSc in Computer Science
-    institution: University of Akron
+    institution: University of Akron, Ohio, USA
     year: 2010
 
 # Social/Academic Networking

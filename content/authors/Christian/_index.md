@@ -25,13 +25,13 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science with a focus on Software Engineering
-    institution: Kent State University
+    institution: Kent State University, Ohio, USA
     year: 2017
   - course: MSc in Computer Science
-    institution: Kent State University
+    institution: Kent State University, Ohio, USA
     year: 2013
   - course: BSc in Computer Science
-    institution: Kent State University
+    institution: Kent State University, Ohio, USA
     year: 2010
 
 # Social/Academic Networking
