@@ -1,5 +1,5 @@
 ---
-title: Using Grammar Patterns to Interpret Test Method Name Evolution was accepted for publication at ICPC 2021!
+title: Publication accepted at ICPC 2021!
 date: 2021-03-10
 profile: false
 ---

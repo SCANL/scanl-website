@@ -1,5 +1,5 @@
 ---
-title: "On the Naming of Methods: A Survey of Professional Developers was accepted for publication at ICSE 2021!"
+title: "Publication accepted at ICSE 2021!"
 date: 2020-12-15
 profile: false
 ---
