@@ -48,6 +48,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
+- icon: globe
+  icon_pack: fas
+  link: https://www.cs.bgsu.edu/mdecke/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2E-jE6IAAAAJ&hl=en
