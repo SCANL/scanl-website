@@ -5,7 +5,7 @@ title: Towards a Model to Appraise and Suggest Identifier Names
 subtitle: ''
 summary: ''
 authors:
-- A. Peruma
+- Anthony Peruma
 tags:
 - '"Program comprehension"'
 - '"Identifier names"'

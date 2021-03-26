@@ -8,9 +8,9 @@ authors:
 - Anthony Peruma
 - Emily Hu
 - Jiajun Chen
-- Eman Abdullah Alomar
-- Mohamed Wiem Mkaouer
-- Christian D. Newman
+- Eman AlOmar
+- Mohamed Mkaouer
+- Christian Newman
 tags:
 - '"Program comprehension"'
 - '"Identifier names"'

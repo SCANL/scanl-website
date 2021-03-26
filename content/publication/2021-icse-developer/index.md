@@ -5,11 +5,11 @@ title: "On the Naming of Methods: A Survey of Professional Developers"
 subtitle: ''
 summary: ''
 authors:
-- Reem S. AlSuhaibani
-- Christian D. Newman
-- Michael J. Decker
-- Michael L. Collard
-- Jonathan I. Maletic
+- Reem AlSuhaibani
+- Christian Newman
+- Michael Decker
+- Michael Collard
+- Jonathan Maletic
 tags:
 - '"method names"'
 - '"coding standards"'

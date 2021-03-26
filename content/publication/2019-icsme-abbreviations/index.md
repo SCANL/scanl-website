@@ -5,12 +5,12 @@ title: An Empirical Study of Abbreviations and Expansions in Software Artifacts
 subtitle: ''
 summary: ''
 authors:
-- C. D. Newman
-- M. J. Decker
-- R. S. Alsuhaibani
-- A. Peruma
-- D. Kaushik
-- E. Hill
+- Christian Newman
+- Michael Decker
+- Reem Alsuhaibani
+- Anthony Peruma
+- Dishant Kaushik
+- Emily Hill
 tags:
 - '"Abbreviation Expansion"'
 - '"Program Comprehension"'

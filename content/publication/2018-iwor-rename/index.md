@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Anthony Peruma
-- Mohamed Wiem Mkaouer
-- Michael J. Decker
-- Christian D. Newman
+- Mohamed Mkaouer
+- Michael Decker
+- Christian Newman
 tags:
 - '"Program comprehension"'
 - '"Rename refactoring"'

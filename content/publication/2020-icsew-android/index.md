@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Anthony Peruma
-- Christian D. Newman
-- Mohamed Wiem Mkaouer
+- Christian Newman
+- Mohamed Mkaouer
 - Ali Ouni
 - Fabio Palomba
 tags:

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Anthony Peruma
-- Christian D. Newman
+- Christian Newman
 tags:
 - '"Mining Software Repositories"'
 - '"Unit Tests"'

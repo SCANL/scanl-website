@@ -5,9 +5,9 @@ title: Modeling the Relationship Between Identifier Name and Behavior
 subtitle: ''
 summary: ''
 authors:
-- C. D. Newman
-- A. Preuma
-- R. AlSuhaibani
+- Christian Newman
+- Anthony Preuma
+- Reem AlSuhaibani
 tags:
 - '"Identifier Names"'
 - '"Static Analysis"'

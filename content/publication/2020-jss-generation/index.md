@@ -6,12 +6,12 @@ title: On the generation, structure, and semantics of grammar patterns in source
 subtitle: ''
 summary: ''
 authors:
-- Christian D. Newman
-- Reem S. AlSuhaibani
-- Michael J. Decker
+- Christian Newman
+- Reem AlSuhaibani
+- Michael Decker
 - Anthony Peruma
 - Dishant Kaushik
-- Mohamed Wiem Mkaouer
+- Mohamed Mkaouer
 - Emily Hill
 tags:
 - '"Program comprehension"'

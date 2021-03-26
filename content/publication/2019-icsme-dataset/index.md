@@ -5,12 +5,12 @@ title: An Open Dataset of Abbreviations and Expansions
 subtitle: ''
 summary: ''
 authors:
-- C. Newman
-- M. J. Decker
-- R. S. AlSuhaibani
-- A. Peruma
-- D. Kaushik
-- E. Hill
+- Christian Newman
+- Michael. Decker
+- Reem AlSuhaibani
+- Anthony Peruma
+- Dishant Kaushik
+- Emily Hill
 tags:
 - '"Abbreviation Expansion"'
 - '"Program Comprehension"'

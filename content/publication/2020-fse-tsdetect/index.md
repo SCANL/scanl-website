@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Anthony Peruma
 - Khalid Almalki
-- Christian D. Newman
-- Mohamed Wiem Mkaouer
+- Christian Newman
+- Mohamed Mkaouer
 - Ali Ouni
 - Fabio Palomba
 tags:
