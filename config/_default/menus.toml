@@ -59,11 +59,16 @@
   weight = 20
 
 [[main]]
+  name = "Identifier Name Structure Catalogue"
+  url = "https://github.com/SCANL/identifier_name_structure_catalogue"
+  weight = 70
+
+[[main]]
   name = "Collaboration"
   url = "collaboration/"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 80
+  weight = 90
