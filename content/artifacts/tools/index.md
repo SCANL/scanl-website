@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-| Tool Name     | Tool Description                              | Tool Website                                 |
-|---------------|-----------------------------------------------|----------------------------------------------|
-| **tsDetect**  | An Open Source Test Smells Detection Tool     | https://testsmells.org/                      |
-| **IDEAL**     | An Open Source Identifier Name Appraisal Tool | https://sites.google.com/view/icsme2021ideal |
+| Tool Name     | Tool Description                              | Tool Website                                                                                 |
+|---------------|-----------------------------------------------|----------------------------------------------------------------------------------------------|
+| **tsDetect**  | An Open Source Test Smells Detection Tool     | [https://testsmells.org/](https://testsmells.org/)                                           |
+| **IDEAL**     | An Open Source Identifier Name Appraisal Tool | [https://sites.google.com/view/icsme2021ideal](https://sites.google.com/view/icsme2021ideal) |
