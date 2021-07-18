@@ -53,5 +53,5 @@ abstract: It is good practice to name test methods such that they are comprehens
   be used to support an automated tool for maintaining test names.
 publication: '*Proceedings of the 29th International Conference on Program Comprehension*'
 url_pdf: https://arxiv.org/pdf/2103.09190.pdf
-doi: xxx
+doi: 10.1109/ICPC52881.2021.00039
 ---
