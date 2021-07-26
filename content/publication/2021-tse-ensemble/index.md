@@ -11,7 +11,7 @@ authors:
   - Anthony
   - Mohamed Mkaouer
   - Satyajit Mohapatra
-  - Tajal Vishoi
+  - Tejal Vishoi
   - Marcos Zampieri
   - Timothy Sheldon
   - Emily
