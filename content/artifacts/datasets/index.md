@@ -13,6 +13,14 @@ header:
   caption: ""
   image: ""
 ---
+**Dataset Description:** A dataset of refactoring discussions on Stack Overflow
+
+- **Associated Publication:** [How Do I Refactor This? An Empirical Study on Refactoring Trends and Topics in Stack Overflow](#)
+
+- **Repository:** [https://doi.org/10.5281/zenodo.5361068](https://doi.org/10.5281/zenodo.5361068)
+
+------
+
 **Dataset Description:** A manually annoated dataset of part-of-speech tags in test method names
 
 - **Associated Publication:** [Using Grammar Patterns to Interpret Test Method Name Evolution](/publication/2021-icpc-methods)
