@@ -16,4 +16,5 @@ header:
 | Tool Name     | Tool Description                              | Tool Website                                                                                 |
 |---------------|-----------------------------------------------|----------------------------------------------------------------------------------------------|
 | **tsDetect**  | An Open Source Test Smells Detection Tool     | [https://testsmells.org/](https://testsmells.org/)                                           |
-| **IDEAL**     | An Open Source Identifier Name Appraisal Tool | [https://github.com/SCANL/ProjectSunshine](https://github.com/SCANL/ProjectSunshine) |
+| **IDEAL**     | An Open Source Identifier Name Appraisal Tool | [https://github.com/SCANL/ProjectSunshine](https://github.com/SCANL/ProjectSunshine)         |
+| **POS TAGGER**| The SCANL open-source part-of-speech tagger   | [https://github.com/SCANL/ensemble_tagger](https://github.com/SCANL/ensemble_tagger)         |

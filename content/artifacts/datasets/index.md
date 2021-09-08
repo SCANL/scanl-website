@@ -13,6 +13,14 @@ header:
   caption: ""
   image: ""
 ---
+**Dataset Description:** Training set for the SCANL ensemble part-of-speech tagger
+
+- **Associated Publication:** [An Ensemble Approach for Annotating Source Code Identifiers with Part-of-speech Tags](#)
+
+- **Repository:** [https://github.com/SCANL/datasets/tree/master/ensemble_tagger_training_data](https://github.com/SCANL/datasets/tree/master/ensemble_tagger_training_data)
+
+------
+
 **Dataset Description:** A dataset of refactoring discussions on Stack Overflow
 
 - **Associated Publication:** [How Do I Refactor This? An Empirical Study on Refactoring Trends and Topics in Stack Overflow](#)

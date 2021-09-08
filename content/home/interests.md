@@ -27,4 +27,4 @@ Program transformations allow us to modify code programmatically. It is importan
 
 **Static Source Code Analysis**
 
-A lot of our work relies on static analysis techniques, and most frequently we make use of the srcML Framework to normalize, transform, and analyze source code. Our lab supports several tools built on srcML in addition to hosting Dr. Emily Hill's natural language framework, SWUM. We are dedicated to providing high-quality research tools and data sets for software research and development. Check our github page regularly to see what we have to offer and feel free to contact us with questions. 
+A lot of our work relies on static analysis techniques, and most frequently we make use of the srcML Framework to normalize, transform, and analyze source code. Our lab supports several tools built on srcML[https://www.srcml.org/] in addition to hosting Dr. Emily Hill's natural language framework, SWUM[https://github.com/SCANL/SWUM]. We are dedicated to providing high-quality research tools and data sets for software research and development. Check our github page regularly to see what we have to offer and feel free to contact us with questions. 
