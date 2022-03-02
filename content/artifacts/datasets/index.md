@@ -12,10 +12,19 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
----
+------
+
+**Dataset Description:** A dataset of digits in identifier names
+
+- **Associated Publication:** [Understanding Digits in Identifier Names: An Exploratory Study](/publication/2022-nlbse-digits)
+
+- **Repository:** [https://doi.org/10.5281/zenodo.6308873](https://doi.org/10.5281/zenodo.6308873)
+
+------
+
 **Dataset Description:** Training set for the SCANL ensemble part-of-speech tagger
 
-- **Associated Publication:** [An Ensemble Approach for Annotating Source Code Identifiers with Part-of-speech Tags](#)
+- **Associated Publication:** [An Ensemble Approach for Annotating Source Code Identifiers with Part-of-speech Tags](/publication/2021-tse-ensemble)
 
 - **Repository:** [https://github.com/SCANL/datasets/tree/master/ensemble_tagger_training_data](https://github.com/SCANL/datasets/tree/master/ensemble_tagger_training_data)
 
@@ -23,7 +32,7 @@ header:
 
 **Dataset Description:** A dataset of refactoring discussions on Stack Overflow
 
-- **Associated Publication:** [How Do I Refactor This? An Empirical Study on Refactoring Trends and Topics in Stack Overflow](#)
+- **Associated Publication:** [How Do I Refactor This? An Empirical Study on Refactoring Trends and Topics in Stack Overflow](/publication/2021-emse-refactor)
 
 - **Repository:** [https://doi.org/10.5281/zenodo.5361068](https://doi.org/10.5281/zenodo.5361068)
 
