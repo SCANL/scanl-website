@@ -9,7 +9,11 @@ SCANL has several publications, posters, and talks going on at ICSE, ICPC, NLBSE
 <!--more-->
 We are presenting a few posters:
 
-![ICSE Poster](ensemble_poster_icse2022.png)
+![ICSE Poster - Ensemble Tagger](ensemble_poster_icse2022.png)
+
+![ICSE Poster - StackOverflow Refactoring](stackoverflow_poster_icse2022.png)
+
+![MSR Poster - Refactoring Tech Debt](miningchallenge_poster_msr2022.png)
 
 We also have several video presentations, you can find those here:
 
