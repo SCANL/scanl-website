@@ -20,8 +20,7 @@ The schedule for our **in-person** presentations is below.
 | ICSE      | POSTER:<br>How Do I Refactor This? An Empirical Study on Refactoring Trends and Topics in Stack Overflow                      | 27-May   | 13:30    | Ballroom B   | Anthony Peruma   |
 
 
-Below are copies of the posters and presentations:
-
+Below are the posters:
 
 ![ICSE Poster - Ensemble Tagger](ensemble_poster_icse2022.png)
 
