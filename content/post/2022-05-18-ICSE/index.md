@@ -7,7 +7,21 @@ profile: false
 SCANL has several publications, posters, and talks going on at ICSE, ICPC, NLBSE, and MSR 2022! Click here for more information what what we will be up to!
 
 <!--more-->
-We are presenting a few posters:
+The schedule for our **in-person** presentations is below.
+
+| **Venue** |                                                        **Presentation**                                                       | **Date** | **Time** | **Location** |   **Presenter**  |
+|:---------:|:-----------------------------------------------------------------------------------------------------------------------------:|:--------:|:--------:|:------------:|:----------------:|
+| MSR       | POSTER:<br>Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship Between Technical Debt and Refactoring | 23-May   | 15:30    | Room 315+316 | Anthony Peruma   |
+| MSR       | PAPER:<br>Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship Between Technical Debt and Refactoring  | 24-May   | 09:53    | Room 315+316 | Anthony Peruma   |
+| ICSE      | PAPER:<br>An Ensemble Approach for Annotating Source Code Identifiers with Part-of-speech Tags                                | 25-May   | 11:20    | Room 304+305 | Christian Newman |
+| ICSE      | POSTER:<br>An Ensemble Approach for Annotating Source Code Identifiers with Part-of-speech Tags                               | 25-May   | 13:30    | Ballroom B   | Christian Newman |
+| ICSE      | Birds of a Feather:<br>Crafting Identifier Names                                                                              | 25-May   | 16:30    | Room 301+302 | Christian Newman |
+| ICSE      | PAPER:<br>How Do I Refactor This? An Empirical Study on Refactoring Trends and Topics in Stack Overflow                       | 27-May   | 11:15    | Room 306+307 | Anthony Peruma   |
+| ICSE      | POSTER:<br>How Do I Refactor This? An Empirical Study on Refactoring Trends and Topics in Stack Overflow                      | 27-May   | 13:30    | Ballroom B   | Anthony Peruma   |
+
+
+Below are copies of the posters and presentations:
+
 
 ![ICSE Poster - Ensemble Tagger](ensemble_poster_icse2022.png)
 
