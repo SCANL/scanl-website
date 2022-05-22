@@ -4,7 +4,7 @@ date: 2022-05-18
 profile: false
 ---
 
-SCANL has several publications, posters, and talks going on at ICSE, ICPC, NLBSE, and MSR 2022! Click here for more information what what we will be up to!
+SCANL has several publications, posters, and talks going on at ICSE, ICPC, NLBSE, and MSR 2022! 
 
 <!--more-->
 The schedule for our **in-person** presentations is below.
