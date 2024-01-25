@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Rochester Institute of Techonology
+- name: University of Hawaii
   url: "https://www.rit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
 Anthony Peruma is a Computing and Information Sciences Ph.D. student at [Rochester Institute of Technology (RIT)](https://www.rit.edu/computing/phd-computing-and-information-sciences). Anthony studies identifier names in the source code by investigating how and why identifier names change (or evolve) in the source code. The overall goal of Anthony's research is to improve developer productivity by constructing a linguistic model to assist developers, in realtime, to identify poor quality identifier names and recommend appropriate replacements.

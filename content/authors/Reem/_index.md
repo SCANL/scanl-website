@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Professor of Software Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Kent State University
+- name: Prince Sultan University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Reem is a PhD student in computer science at Kent State University, Ohio, USA.
+bio: Reem is a faculty member at Prince Sultan University
 
 interests:
 - Software Maintenance
@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
 Reem is a PhD student in computer science as part of the SDML (Jonathan Maletic's lab). She also helped co-found SCANL.
