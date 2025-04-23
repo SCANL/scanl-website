@@ -1,5 +1,5 @@
 ---
-title: Interested in what we do? 
+title: Collaborations
 summary: We welcome research scientists and industry professionals to work with us.
 date: "2021-03-26T00:00:00Z"
 
@@ -13,9 +13,8 @@ header:
   caption: ""
   image: ""
 ---
-If you would like to contribute to our research or feel that we could be of assitance to you, do not hesitate to shoot us an [email](/contact/)! We welcome research scientists and industry professionals to work with us in expanding the body of knowledge around source code behavior and natural language.
 
 Our collaboration partners include:
-- [The Software Maintenance and Intelligent Evolution Research Group](https://smilevo.github.io/)
+- [The Software Maintenance and Intelligent Evolution Research Group](https://mkaouer.net/)
 - [The Software Development Laboratory](http://www.sdml.cs.kent.edu/)
-- [The Language Technology Group](https://people.rit.edu/mazgla/ltgroup/)
+- [The Language Technology Group](https://www.gmu.edu/profiles/mzampier)
