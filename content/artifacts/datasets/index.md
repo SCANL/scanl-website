@@ -1,7 +1,6 @@
 ---
 title: Research Datasets 
 summary: Datasets that we generated as part of our research studies.
-date: "2021-03-26T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
